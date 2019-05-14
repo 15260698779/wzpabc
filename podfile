@@ -1,0 +1,7 @@
+source ‘https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git’
+platform :ios, '9.0'
+
+target 'Test' do
+  pod 'Masonry', '~>1.0.0'
+  pod 'TZImagePickerController','~>3.0.7'
+end
